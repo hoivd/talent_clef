@@ -7,4 +7,5 @@ sentence-transformers/all-MiniLM-L6-v2,0.0118653764948248,,,,19-03-2025 13:02:35
 sentence-transformers/all-mpnet-base-v2,0.0123817594721913,,,,19-03-2025 13:06:26,mô hình khác
 sentence-transformers/all-mpnet-base-v2,0.0063653672114014,,1.0,,19-03-2025 14:27:09,thử train trực tiếp tập train
 sentence-transformers/all-mpnet-base-v2,0.0063653672114014,ContrastiveLoss,1.0,,19-03-2025 14:28:32,thử train trực tiếp tập train
-agne/jobBERT-de,0.01161245908588171,,,,19-03-2025 15:33:09,Test
+agne/jobBERT-de,0.0116124590858817,,,,19-03-2025 15:33:09,Test
+agne/jobBERT-de,0.01161245908588171,,,,19-03-2025 15:38:09,Test
