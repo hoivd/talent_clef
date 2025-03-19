@@ -4,4 +4,5 @@ jjzha/esco-xlm-roberta-large,0.006852036807686,,,,19-03-2025 11:30:37,Test 2
 jjzha/esco-xlm-roberta-large,0.006852036807686,,,,19-03-2025 11:35:18,Test 3
 jjzha/esco-xlm-roberta-large,0.006852036807686,,,,19-03-2025 11:36:08,Test 4
 sentence-transformers/all-MiniLM-L6-v2,0.0118653764948248,,,,19-03-2025 13:02:35,mô hình khác
-sentence-transformers/all-mpnet-base-v2,0.012381759472191334,,,,19-03-2025 13:06:26,mô hình khác
+sentence-transformers/all-mpnet-base-v2,0.0123817594721913,,,,19-03-2025 13:06:26,mô hình khác
+sentence-transformers/all-mpnet-base-v2,0.0063653672114014626,,1.0,,19-03-2025 14:27:09,thử train trực tiếp tập train
