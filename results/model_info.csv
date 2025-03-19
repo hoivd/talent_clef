@@ -1,0 +1,2 @@
+model_name,MAP,loss,epochs,training_time (s),date,notes
+jjzha/esco-xlm-roberta-large,0.0068520368076860905,,,,19-03-2025 11:17:43,First Run
