@@ -9,4 +9,5 @@ sentence-transformers/all-mpnet-base-v2,0.0063653672114014,,1.0,,19-03-2025 14:2
 sentence-transformers/all-mpnet-base-v2,0.0063653672114014,ContrastiveLoss,1.0,,19-03-2025 14:28:32,thử train trực tiếp tập train
 agne/jobBERT-de,0.0116124590858817,,,,19-03-2025 15:33:09,Test
 agne/jobBERT-de,0.0116124590858817,,,,19-03-2025 15:38:09,Test
-agne/jobBERT-de,0.01161245908588171,,,,19-03-2025 15:44:58,Test
+agne/jobBERT-de,0.0116124590858817,,,,19-03-2025 15:44:58,Test
+agne/jobBERT-de,0.01161245908588171,,,,19-03-2025 15:50:08,Test
