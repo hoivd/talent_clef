@@ -2,4 +2,5 @@ model_name,MAP,loss,epochs,training_time (s),date,notes
 jjzha/esco-xlm-roberta-large,0.006852036807686,,,,19-03-2025 11:17:43,First Run
 jjzha/esco-xlm-roberta-large,0.006852036807686,,,,19-03-2025 11:30:37,Test 2
 jjzha/esco-xlm-roberta-large,0.006852036807686,,,,19-03-2025 11:35:18,Test 3
-jjzha/esco-xlm-roberta-large,0.0068520368076860905,,,,19-03-2025 11:36:08,Test 4
+jjzha/esco-xlm-roberta-large,0.006852036807686,,,,19-03-2025 11:36:08,Test 4
+sentence-transformers/all-MiniLM-L6-v2,0.011865376494824886,,,,19-03-2025 13:02:35,mô hình khác
