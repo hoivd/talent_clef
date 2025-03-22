@@ -3,3 +3,4 @@ jjzha/jobbert-base-cased,0.2715,"{'map': 0.2715, 'mrr': 0.6136, 'ndcg': 0.6032, 
 agne/jobGBERT,0.2605,"{'map': 0.2605, 'mrr': 0.634, 'ndcg': 0.5962, 'precision@5': 0.4629, 'precision@10': 0.3781, 'precision@100': 0.1057}",,,,,,,,,,22-03-2025 05:43:05,Test
 sentence-transformers/all-MiniLM-L6-v2,0.4966,"{'map': 0.4966, 'mrr': 0.7638, 'ndcg': 0.7669, 'precision@5': 0.6762, 'precision@10': 0.5914, 'precision@100': 0.1617}",,,,,,,,,,22-03-2025 05:46:41,Test
 sentence-transformers/all-MiniLM-L6-v2,0.5519,"{'map': 0.5519, 'mrr': 0.7946, 'ndcg': 0.8011, 'precision@5': 0.7143, 'precision@10': 0.6248, 'precision@100': 0.178}",,,,,,,MultipleNegativesRankingLoss,1.0,,22-03-2025 05:55:41,Test
+sentence-transformers/all-MiniLM-L6-v2,0.5632,"{'map': 0.5632, 'mrr': 0.8045, 'ndcg': 0.8085, 'precision@5': 0.7238, 'precision@10': 0.6457, 'precision@100': 0.1784}",,,,,,,MultipleNegativesRankingLoss,3.0,,22-03-2025 06:18:46,Test
