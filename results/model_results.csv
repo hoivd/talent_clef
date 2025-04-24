@@ -1,0 +1,2 @@
+model_name,Avg result,en-en result,es-es result,de-de result,zh-zh result,en-es result,en-de result,en-zh result,loss,epochs,training_time (s),date,notes
+sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,0.5301,"{'map': 0.5301, 'mrr': 0.8713, 'ndcg': 0.7973, 'precision@5': 0.7067, 'precision@10': 0.6057, 'precision@100': 0.1745}",,,,,,,,,,04-24_19-34-16,thêm negative pair và finetune tiếp từ epoch 5
